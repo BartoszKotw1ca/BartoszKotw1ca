@@ -26,5 +26,5 @@
 </div>
 
 ###
-![Codewars](https://github.r2v.ch/codewars?user=BartoszKotw1ca&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=BartoszKotw1ca&stroke=%23BB432C&theme=GRSDIENT)
 ###
