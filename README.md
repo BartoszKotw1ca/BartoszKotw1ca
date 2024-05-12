@@ -26,5 +26,5 @@
 </div>
 
 ###
-[![Codewars](https://github.r2v.ch/codewars?user=BartoszKotw1ca&name=true&theme=gradient&hide_clan=true)](https://www.codewars.com/users/BartoszKotw1ca)
+[![Codewars](https://github.r2v.ch/codewars?user=BartoszKotw1ca&name=true&theme=gradient&&stroke=%23BB432C&hide_clan=true)](https://www.codewars.com/users/BartoszKotw1ca)
 ###
