@@ -26,5 +26,5 @@
 </div>
 
 ###
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=BartoszKotw1ca&stroke=COLOR)
 ###
