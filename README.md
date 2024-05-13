@@ -28,5 +28,5 @@
 ###
 [![Codewars](https://github.r2v.ch/codewars?user=BartoszKotw1ca&name=true&theme=gradient_midnight_puple&hide_clan=true)](https://www.codewars.com/users/BartoszKotw1ca)
 ###
-href ="https://www.codewars.com/users/BartoszKotw1ca/badges/large"
+[![CodeWars Badge](https://www.codewars.com/users/BartoszKotw1ca/badges/large)](https://www.codewars.com/users/BartoszKotw1ca)
 ###
